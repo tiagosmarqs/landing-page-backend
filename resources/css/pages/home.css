@@ -2,7 +2,7 @@
 .quem-sou-eu {
   width: 100%;
   display: block;
-  background-image: url(../../images/fundo-banner.png);
+  background-image: url(../../imagens/fundo-banner.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -154,7 +154,7 @@
 .cursos {
   width: 100%;
   display: block;
-  background-image: url(../../images/fundo-cursos.png);
+  background-image: url(../../imagens/fundo-cursos.png);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 120px 0px 70px 0px;
@@ -278,7 +278,7 @@
   width: 100%;
   display: block;
   padding: 90px 0px;
-  background-image: url("../../images/fundo-contatos.png");
+  background-image: url("../../imagens/fundo-contatos.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
