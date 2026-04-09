@@ -207,7 +207,7 @@
       <div class="conteudo">
         <div class="form">
           <h2>Fale comigo</h2>
-          <form action="#" method="POST">
+          <form action="<?=URL_BASE?>enviar-formulario" method="POST">
             <input type="text" placeholder="Nome" name="nome">
             <input type="text" placeholder="Telefone" name="telefone">
             <textarea name="mensagem" id="" placeholder="Mensagem"></textarea>
